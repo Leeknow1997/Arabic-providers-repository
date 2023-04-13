@@ -483,7 +483,7 @@
     <string name="skip_type_format" formatted="true">Pular %s</string>
     <string name="skip_type_mixed_op">Abertura mista</string>
     <string name="sort_alphabetical_z">Alfabético (Z a A)</string>
-    <string name="empty_library_logged_in_message">Parece que esta lista está vazia, tente trocar para outra</string>
+    <string name="empty_library_logged_in_message">Esta lista está vazia. Tente trocar para outra.</string>
     <string name="subscription_new">Inscrito em %s</string>
     <string name="quality_4k">4K</string>
     <string name="video_tracks">Faixas de vídeo</string>
@@ -503,7 +503,7 @@
     <string name="watch_quality_pref_data">Qualidade Preferida (Dados Móveis)</string>
     <string name="android_tv_interface_on_seek_settings_summary">Quantidade de busca (em segundos) usada quando o player de video está visível</string>
     <string name="android_tv_interface_off_seek_settings_summary">Quantidade de busca (em segundos) usada quando o player de video está oculto</string>
-    <string name="jsdelivr_enabled">Falha ao conectar com GitHub, ativando proxy jsdelivr.</string>
+    <string name="jsdelivr_enabled">Não foi possível chegar ao GitHub. Ativando o proxy jsDelivr…</string>
     <string name="pref_category_cache">Cache</string>
     <string name="pref_category_android_tv">Android TV</string>
     <string name="pref_category_subtitles">Legendas</string>
